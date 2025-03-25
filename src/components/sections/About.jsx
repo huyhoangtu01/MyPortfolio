@@ -89,12 +89,7 @@ export const About = () => {
                                     </h4>
                                     <div className = "list-disc list-inside space-y-2">
                                         <p>
-                                            Participate in training AI by labeling, classifying and providing feedback on code, debug coding solutions and
-                                            other coding tasks.
-                                        </p>
-                                        <p>
-                                            Review completed tasks and provide feedback when necessary. Maintain high standards in coding to ensure AI
-                                            models receive quality training data.
+                                            Train AI by labeling, classifying, and providing feedback on code. Ensure coding quality and debug solutions to support accurate model training.
                                         </p>
                                     </div>
                                 </div>
@@ -106,11 +101,7 @@ export const About = () => {
                                     </h4>
                                     <div className = "list-disc list-inside space-y-2">
                                         <p>
-                                        Collaborative Improvement: Work closely with the Remotask AI training team to refine task guidelines, resolve ambiguities, and suggest improvements to the task workflow. Contribute to knowledge-sharing sessions with other trainers to ensure a consistent approach.
-                                        </p>
-                                        <p>
-                                        Documentation: Document processes, findings, and feedback to improve the accuracy and effectiveness of AI
-                                        training tasks. Create reports on common issues and suggestions for enhancing the AI model’s coding skills.
+                                            Collaborated with the AI training team to refine task guidelines and improve workflow. Documented findings and suggested enhancements for model coding accuracy.
                                         </p>
                                     </div>
                                 </div>

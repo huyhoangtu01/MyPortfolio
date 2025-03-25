@@ -15,7 +15,7 @@ export const Projects = () => {
                             <div> 
                                 <h3 className="text-xl font-bold mb-2"> Portfolio </h3>
                                 <p className = "text-gray-400 mb-4">
-                                    about project1
+                                    A personal portfolio website to showcase my work, skills, and projects, contact information.
                                 </p>
                                 <div className = "flex flex-wrap gap-2 mb-4">
                                     {["React", "Tailwindcss"].map((tech,key) => (
@@ -26,7 +26,7 @@ export const Projects = () => {
                                 </div>
 
                                 <div className ="flex justify-between items-center">
-                                    <a href="https://www.google.com/search?sca_esv=ca5690578bab1f18&rlz=1C1ONGR_enUS1152US1152&q=portfolio&udm=2&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWpA-dk4wpBWOGsoR7DG5zJBsxayPSIAqObp_AgjkUGqekYoUzDaOcDDjQfK4KpR2OIJg0p8GjEafhVsU6UZNT2tUhHTA_XMhcunRVhbh9fJ-E_NpOwc0V4M-pxQ-VRkNVBLtVA39i8pg8uW6jlEtLtrbdNHgWLD-vHAmoqmNrKak2sYhiqpsjYUvt_8vhjtkMNrZWABg&sa=X&ved=2ahUKEwjFpIj-1Z-MAxVDEVkFHetzAOoQtKgLegQIKBAB&biw=1920&bih=945&dpr=1" className =" text-blue-400 hover:text-blue-300 transtion-colors my-4">
+                                    <a href="https://www.huythanhtran.dev/" className =" text-blue-400 hover:text-blue-300 transtion-colors my-4">
                                     {" "}
                                     View Project →
                                     </a>
