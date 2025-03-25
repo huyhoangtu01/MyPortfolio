@@ -11,8 +11,7 @@ export const Home = () => {
                     </h1>
 
                     <p className ="text-gray-400 text-lg mb-8 max-w-xl mx-auto">
-                        I am a software engineer with a passion for building web and mobile applications
-                        thay doi trong home.jsx
+                        I'm a software engineer who builds cool stuff for the web and mobile. Whether it's a sleek app or a responsive website, I love solving problems and bringing ideas to life.
                     </p>
                     <div className = "flex justify-center space-x-4">
                         <a href = "#projects" className = "bg-blue-500 text-white py-3 px-6 rounded font-medium transition relative overflow-hidden hover:-translate-y-0.5 hover:shadow-[0_0_15px_rgba(59,130,246,0.4)]">
